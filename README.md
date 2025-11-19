@@ -1,86 +1,100 @@
-<h1 align="center">Hi, I'm Nyaganya Malima Nyaganya</h1>
-<h3 align="center">A Passionate Fullstack Developer from Tanzania 🇹🇿</h3>
+<h1 align="center">Hey, I'm Nyaganya Malima Nyaganya</h1>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=00F728&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Backend+Developer;Mobile+Developer" />
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jonnitech&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+## 🚀 About Me  
+- 💻 Fullstack, Mobile & Backend Developer  
+- 🎓 IT Student & passionate about building real-world applications  
+- ⚡ I love creating automation tools, bots, APIs, and modern UI/UX web apps  
+- 🚀 Currently mastering: **MERN, Node.js, Flutter, Python**  
+- 🎯 Goal: Build scalable digital products and become fully independent  
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs,flutter" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jonnitech&theme=onedark&margin-w=10&margin-h=10" alt="trophies" />
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java" />
+</p>
+
+### **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+### **Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,postman,docker" />
+</p>
+
+---
+
+## 🔥 Featured Projects  
+✔ WhatsApp Automation Bot  
+✔ AI Voice + Chat Agent Integration  
+✔ Fullstack School/College Streaming App  
+✔ YouTube Auto-Lyric Tools  
+✔ MERN + Flutter Full Apps  
+
+---
+
+## 🌐 Connect With Me  
+<p>
+  <a href="https://github.com/JonniTech" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&style=for-the-badge" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" />
+  </a>
+
+  <a href="https://www.youtube.com/@jonnitech" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on **Backend self-learning**
-- 🌱 Learning **FastAPI, Flask, and Spring Boot**
-- 👯 Looking to collaborate on **Fullstack Projects**
-- 🤝 Open to help with **Backend & API Development**
-- 👨‍💻 All my projects — **Coming Soon**
-- 📝 Articles — **Coming Soon**
-- 💬 Ask me about **Fullstack Development & Backend Engineering**
-- 📫 Reach me at **nyaganyamalima31@gmail.com**
-- ⚡ Fun fact: **I think I'm funny 😄**
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-  <!-- Add your social links here -->
-  <!-- Example -->
-  <!-- <a href="https://twitter.com/username" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" /></a> -->
-</p>
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" />
-  <img src="https://reactnative.dev/img/header_logo.svg" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" />
-</p>
-
----
-
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonnitech&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jonnitech&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonnitech&theme=tokyonight" height="160px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonnitech&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnitech&layout=compact&theme=tokyonight" height="160px"/>
 </p>
 
 ---
+
+## 🏆 Profile Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jonnitech&theme=onedark&margin-w=15" />
+</p>
+
+---
+
+## 🌈 Profile Themes
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonnitech&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jonnitech&show_icons=true&theme=gruvbox" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jonnitech&show_icons=true&theme=merko" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jonnitech&show_icons=true&theme=cobalt" width="48%" />
+</p>
+
+---
+
+## ⚡ Fun Fact  
+I build products before I finish learning the technology 😄
 
