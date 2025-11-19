@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me  
-- 💻 Fullstack, Mobile & Backend Developer  
+- 💻 Junior Fullstack, Mobile & Backend Developer  
 - 🎓 IT Student & passionate about building real-world applications  
 - ⚡ I love creating automation tools, bots, APIs, and modern UI/UX web apps  
 - 🚀 Currently mastering: **MERN, Node.js, Flutter, Python**  
@@ -20,12 +20,12 @@
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,dart,flutter" />
 </p>
 
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,java,spring,cs,dotnet" />
 </p>
 
 ### **Databases**
@@ -35,7 +35,7 @@
 
 ### **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,postman,docker,n8n" />
 </p>
 
 ---
