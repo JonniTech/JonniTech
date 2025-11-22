@@ -20,12 +20,12 @@
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,dart,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,dart,flutter" />
 </p>
 
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,java,spring,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java,cs" />
 </p>
 
 ### **Databases**
@@ -35,7 +35,7 @@
 
 ### **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,postman,docker,n8n" />
+  <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,postman,docker,prisma" />
 </p>
 
 ---
