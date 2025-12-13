@@ -2,13 +2,13 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=00F728&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Backend+Developer;Mobile+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=00F728&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Backend+Developer;Mobile+Developer;AI+Engineer" />
 </p>
 
 ---
 
 ## 🚀 About Me  
-- 💻 Junior Fullstack, Mobile & Backend Developer  
+- 💻 Junior Fullstack, Mobile , AI & Backend Developer  
 - 🎓 IT Student & passionate about building real-world applications  
 - ⚡ I love creating automation tools, bots, APIs, and modern UI/UX web apps  
 - 🚀 Currently mastering: **MERN, Node.js, Flutter, Python**  
@@ -25,7 +25,12 @@
 
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java,cs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+</p>
+
+### **Others**
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cs,java" />
 </p>
 
 ### **Databases**
