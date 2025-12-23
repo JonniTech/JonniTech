@@ -35,7 +35,7 @@
 
 ### **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" />
 </p>
 
 ### **Tools**
