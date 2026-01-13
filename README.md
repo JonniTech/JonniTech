@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me  
-- 💻 Junior Fullstack, Mobile , AI & Backend Developer  
+- 💻 Fullstack Web, Mobile & AI Developer  
 - 🎓 IT Student & passionate about building real-world applications  
 - ⚡ I love creating automation tools, bots, APIs, and modern UI/UX web apps  
 - 🚀 Currently mastering: **MERN, Node.js, Flutter, Python**  
