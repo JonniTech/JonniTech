@@ -20,7 +20,7 @@
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,dart,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,vue,nuxtjs,dart,flutter" />
 </p>
 
 ### **Backend**
@@ -40,7 +40,7 @@
 
 ### **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,postman,docker,prisma" />
+  <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,postman,docker,prisma,drizzle" />
 </p>
 
 ---
