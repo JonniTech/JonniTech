@@ -1,105 +1,196 @@
-<h1 align="center">Hey, I'm Nyaganya Malima Nyaganya</h1>
+# Hi there, I'm Nyaganya Malima Nyaganya 👋
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=00F728&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Backend+Developer;Mobile+Developer;AI+Engineer" />
-</p>
+<div align="center">
+  
+  **Fullstack AI Engineer | IT Student | Digital Product Builder**
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](YOUR_PORTFOLIO_URL)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+  
+</div>
 
 ---
 
-## 🚀 About Me  
-- 💻 Fullstack Web, Mobile & AI Developer  
-- 🎓 IT Student & passionate about building real-world applications  
-- ⚡ I love creating automation tools, bots, APIs, and modern UI/UX web apps  
-- 🚀 Currently mastering: **MERN, Node.js, Flutter, Python**  
-- 🎯 Goal: Build scalable digital products and become fully independent  
+## 🎯 About Me
+
+I'm a passionate fullstack developer specializing in AI-powered applications and modern web technologies. I thrive on building scalable digital products that solve real-world problems, with a focus on automation, intelligent systems, and seamless user experiences.
+
+- 🔭 Currently working on AI-integrated applications and automation tools
+- 🌱 Mastering modern web frameworks: Next.js, SvelteKit, Vue/Nuxt and backend technologies
+- 💡 Building products before finishing learning the technology (learning by doing!)
+- 🎓 IT Student with hands-on experience in production-grade applications
+- 🚀 Goal: Create impactful digital solutions and achieve full technical independence
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,vue,nuxtjs,dart,flutter" />
-</p>
+### Frontend Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php" />
-</p>
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### **Others**
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cs,java" />
-</p>
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" />
-</p>
+### AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-### **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,postman,docker,prisma,drizzle" />
-</p>
-
----
-
-## 🔥 Featured Projects  
-✔ WhatsApp Automation Bot  
-✔ AI Voice + Chat Agent Integration  
-✔ Fullstack School/College Streaming App  
-✔ YouTube Auto-Lyric Tools  
-✔ MERN + Flutter Full Apps  
-
----
-
-## 🌐 Connect With Me  
-<p>
-  <a href="https://github.com/JonniTech" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&style=for-the-badge" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" />
-  </a>
-
-  <a href="https://www.youtube.com/@jonnitech" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge" />
-  </a>
-</p>
+### Tools & Platforms
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonnitech&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonnitech&theme=tokyonight" height="160px"/>
-</p>
+## 🔥 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnitech&layout=compact&theme=tokyonight" height="160px"/>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 WhatsApp Automation Bot</h3>
+      <div align="center">
+        <a href="PROJECT_LINK_1">
+          <img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+        <br><br>
+        <p><strong>🔧 Tech Stack:</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        </p>
+        <p align="left">
+          • Intelligent message handling and scheduling<br>
+          • Smart AI-powered responses<br>
+          • Multi-account management<br>
+          • Custom automation workflows
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎙️ AI Voice + Chat Agent</h3>
+      <div align="center">
+        <a href="PROJECT_LINK_2">
+          <img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+        <br><br>
+        <p><strong>🔧 Tech Stack:</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+          <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
+        </p>
+        <p align="left">
+          • Real-time voice conversation AI<br>
+          • Text-to-speech & speech-to-text<br>
+          • Customer support automation<br>
+          • Multi-language support
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📺 Fullstack Streaming Platform</h3>
+      <div align="center">
+        <a href="PROJECT_LINK_3">
+          <img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+        <br><br>
+        <p><strong>🔧 Tech Stack:</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        </p>
+        <p align="left">
+          • Live video streaming with WebRTC<br>
+          • Real-time chat functionality<br>
+          • Content management system<br>
+          • Scalable backend architecture
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎵 YouTube Auto-Lyric Tools</h3>
+      <div align="center">
+        <a href="PROJECT_LINK_4">
+          <img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        </a>
+        <br><br>
+        <p><strong>🔧 Tech Stack:</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+          <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        </p>
+        <p align="left">
+          • Automated lyric generation with AI<br>
+          • Precise lyric timing sync<br>
+          • Batch processing capabilities<br>
+          • Auto-publish to YouTube
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Profile Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jonnitech&theme=onedark&margin-w=15" />
-</p>
+## 📈 Activity Graph
+
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JonniTech&theme=react-dark&hide_border=true&area=true)
+
+</div>
 
 ---
 
-## 🌈 Profile Themes
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonnitech&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jonnitech&show_icons=true&theme=gruvbox" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jonnitech&show_icons=true&theme=merko" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jonnitech&show_icons=true&theme=cobalt" width="48%" />
-</p>
+## 💭 Quote of the Day
+
+<div align="center">
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 ---
 
-## ⚡ Fun Fact  
-I build products before I finish learning the technology 😄
+<div align="center">
+  
+  ### ⚡ "I build products before I finish learning the technology – learning by doing is my superpower!"
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=JonniTech&color=blueviolet&style=for-the-badge)
+  
+  ⭐️ From [Nyaganya Malima Nyaganya](https://github.com/JonniTech)
 
+</div>
