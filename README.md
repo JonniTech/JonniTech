@@ -190,6 +190,20 @@ I'm a passionate fullstack developer specializing in AI-powered applications and
 
 ---
 
+## Freelance Services (Hire Me)
+
+I build:
+- Secure REST APIs with authentication
+- Dashboards and admin panels
+- Web apps & landing pages
+- Fix bugs, add features
+- Intergrate AI fetures like chatbots,voice-agents etc.
+
+**Daily available & ready to start!**
+
+
+---
+
 <div align="center">
   
   ### ⚡ "I build products before I finish learning the technology – learning by doing is my superpower!"
