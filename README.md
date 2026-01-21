@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  **Fullstack AI Engineer | IT Student | Digital Product Builder**
+  **Fullstack AI Engineer | Digital Product Builder**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nyaganya-nyaganya-1673a5366)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://tervux.vercel.app/projects)
@@ -12,19 +12,19 @@
 
 ---
 
-## 🎯 About Me
+##  About Me
 
 I'm a passionate fullstack developer specializing in AI-powered applications and modern web technologies. I thrive on building scalable digital products that solve real-world problems, with a focus on automation, intelligent systems, and seamless user experiences.
 
-- 🔭 Currently working on AI-integrated applications and automation tools
-- 🌱 Mastering modern web frameworks: Next.js, SvelteKit, Vue/Nuxt and backend technologies
-- 💡 Building products before finishing learning the technology (learning by doing!)
-- 🎓 IT Student with hands-on experience in production-grade applications
-- 🚀 Goal: Create impactful digital solutions and achieve full technical independence
+-  Currently working on AI-integrated applications and automation tools
+-  Mastering modern web frameworks: Next.js, SvelteKit, Vue/Nuxt and backend technologies
+-  Building products before finishing learning the technology (learning by doing!)
+-  Fullstack AI Engineer with hands-on experience in production-grade applications
+-  Goal: Create impactful digital solutions and achieve full technical independence
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -75,7 +75,7 @@ I'm a passionate fullstack developer specializing in AI-powered applications and
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
 <table>
   <tr>
@@ -170,7 +170,7 @@ I'm a passionate fullstack developer specializing in AI-powered applications and
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
   
@@ -180,7 +180,7 @@ I'm a passionate fullstack developer specializing in AI-powered applications and
 
 ---
 
-## 💭 Quote of the Day
+## Quote of the Day
 
 <div align="center">
   
