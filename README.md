@@ -1,30 +1,33 @@
-# Hi there, I'm Nyaganya Malima Nyaganya 👋
-
 <div align="center">
-  
-  **Fullstack AI Engineer | Digital Product Builder**
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nyaganya-nyaganya-1673a5366)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://nyaganya.tervux.com)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:nyaganyamalima31@gmail.com)
-  
+
+# Nyaganya Malima Nyaganya
+
+<a href="https://github.com/JonniTech">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Fullstack+AI+Engineer;Digital+Product+Builder;Automation+System+Architect" alt="Typing Animation" />
+</a>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nyaganya-nyaganya-1673a5366)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://nyaganya.tervux.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:nyaganyamalima31@gmail.com)
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-##  About Me
+## About Me
 
-I'm a passionate fullstack developer specializing in AI-powered applications and modern web technologies. I thrive on building scalable digital products that solve real-world problems, with a focus on automation, intelligent systems, and seamless user experiences.
+> I'm a passionate fullstack developer specializing in AI-powered applications and modern web technologies. I thrive on building scalable digital products that solve real-world problems, with a focus on automation, intelligent systems, and seamless user experiences.
 
--  Currently working on AI-integrated applications and automation tools
--  Mastering modern web frameworks: Next.js, SvelteKit, Vue/Nuxt and backend technologies
--  Building products before finishing learning the technology (learning by doing!)
--  Fullstack AI Engineer with hands-on experience in production-grade applications
--  Goal: Create impactful digital solutions and achieve full technical independence
+* **Currently working on:** AI-integrated applications and automation tools.
+* **Mastering modern web frameworks:** Next.js, SvelteKit, Vue/Nuxt, and backend technologies.
+* **Philosophy:** Building products before finishing learning the technology (learning by doing!).
+* **Experience:** Fullstack AI Engineer with hands-on experience in production-grade applications.
+* **Goal:** Create impactful digital solutions and achieve full technical independence.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-##  Tech Stack
+## Tech Stack
 
 ### Frontend Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -68,17 +71,19 @@ I'm a passionate fullstack developer specializing in AI-powered applications and
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## Activity Graph
+## GitHub Statistics
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JonniTech&theme=react-dark&hide_border=true&area=true)
+  <a href="https://github.com/JonniTech">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonniTech&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  </a>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## Quote of the Day
 
@@ -88,28 +93,30 @@ I'm a passionate fullstack developer specializing in AI-powered applications and
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## Freelance Services (Hire Me)
 
-I build:
-- Secure REST APIs with authentication
-- Dashboards and admin panels
-- Web apps & landing pages
-- Fix bugs, add features
-- Intergrate AI fetures like chatbots,voice-agents etc.
+| Service Area | What I Deliver |
+| :--- | :--- |
+| **Backend & APIs** | Secure REST APIs with modern authentication flows |
+| **Admin Interfaces** | Custom dashboards and comprehensive admin panels |
+| **Frontend Development** | Highly responsive web apps & conversion-focused landing pages |
+| **Code Maintenance** | Efficient bug fixing, refactoring, and feature additions |
+| **AI Integration** | Implementation of intelligent features like chatbots and voice-agents |
 
-**Daily available & ready to start!**
+> **Daily available & ready to start!**
 
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <div align="center">
   
-  ### ⚡ "I build products before I finish learning the technology – learning by doing is my superpower!"
+  ### "I build products before I finish learning the technology – learning by doing is my superpower!"
   
+  <br>
+
   ![Profile Views](https://komarev.com/ghpvc/?username=JonniTech&color=blueviolet&style=for-the-badge)
   
-  ⭐️ From [Nyaganya Malima Nyaganya](https://github.com/JonniTech)
+  From [Nyaganya Malima Nyaganya](https://github.com/JonniTech)
 
 </div>
